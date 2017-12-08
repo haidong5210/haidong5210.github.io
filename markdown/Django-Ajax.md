@@ -221,7 +221,7 @@ $.ajaxSetup({
 *方式二*
 ```python
 <form>
-{% csrf_token %}
+###{% csrf_token %}##
 </form><br><br><br>$.ajax({<br>...<br>data:{
 "csrfmiddlewaretoken":$("[name='csrfmiddlewaretoken']").val()
 }<br>})
