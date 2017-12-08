@@ -1,3 +1,3 @@
-# haidong5210.github.io
+# 海东
 
-我的笔记！1
+[数据类型](markdown/数据类型.md)
